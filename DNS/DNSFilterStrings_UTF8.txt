@@ -1,0 +1,11 @@
+
+Configuration for interface "无线网络连接"
+    Statically Configured DNS Servers:    8.8.8.8
+                                          8.8.4.4
+    Register with which suffix:           Primary only
+
+
+Configuration for interface "无线网络连接"
+    DNS servers configured through DHCP:  192.168.1.1
+    Register with which suffix:           Primary only
+
